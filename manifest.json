@@ -1,0 +1,11 @@
+{
+  "id": "scratchblocks",
+  "name": "Scratchblocks",
+  "description": "render scratchblocks codeblocks",
+  "author": "shabegom",
+
+  "authorUrl": "shbgm.ca",
+
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "scratchblocks",
+  "version": "0.0.1",
+  "description": "render scratchblocks codeblocks",
+  "main": "lib/main.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "obsidian-plugin build src/main.ts",
+    "dev": "obsidian-plugin dev src/main.ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/parser": "^5.35.1",
+    "eslint": "^8.22.0",
+    "obsidian": "obsidianmd/obsidian-api",
+    "obsidian-plugin-cli": "^0.4.3",
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "scratchblocks": "^3.6.0"
+  }
+}
